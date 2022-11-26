@@ -24,11 +24,6 @@
             "id":5,
             "title":"T5",
             "isCompleted":false
-        }, 
-        {
-            "id":6,
-            "title":"T6",
-            "isCompleted":false
         }
     ]
 
