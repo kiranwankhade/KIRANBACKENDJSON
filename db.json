@@ -78,6 +78,175 @@
           "price" : 100,
           "id" : 3
       }
+    ],
+
+    "mensData":[
+      {
+        "image_url": "https://m.media-amazon.com/images/I/81HicePd0RL._UX395_.jpg",
+        "name": "MEN'S REEBOK RUNNING ROADMAP SHOES",
+        "price": 1170,
+        "strikedoffprice": "2599"
+      },
+      {
+        "image_url": "https://rukminim1.flixcart.com/image/832/832/l3rmzrk0/slipper-flip-flop/p/m/d/11-ga2088-reebok-black-original-imagethjhpqywkev.jpeg?q=70",
+        "name": "MEN'S REEBOK SWIM ARUBA FLIP SLIPPERS ",
+        "price": 699,
+        "strikedoffprice": 999
+      },
+      {
+        "image_url": "https://m.media-amazon.com/images/I/81HicePd0RL._UX395_.jpg",
+        "name": " MEN'S REEBOK RUNNING AUSTIN SHOES",
+        "price": 945,
+        "strikedoffprice": 2099
+      },
+      {
+        "image_url": "https://m.media-amazon.com/images/I/71gz1mietRS._UY500_.jpg",
+        "name": "MEN'S REEBOK SWIM AVENGER FLIP LP SLIPPERS",
+        "price": 399,
+        "strikedoffprice": 799
+      },
+      {
+        "image_url":
+          "https://m.media-amazon.com/images/I/81HicePd0RL._UX395_.jpg",
+        "name": "MEN'S REEBOK RUNNING TEMPO SHOES ",
+        "price": 1620,
+        "strikedoffprice": 3599
+      },
+      {
+        "image_url":
+          "https://m.media-amazon.com/images/I/81HicePd0RL._UX395_.jpg ",
+        "name": " MEN'S REEBOK RUNNING ASTRO BOOSTER SHOES ",
+        "price": 1440,
+        "strikedoffprice": 3199
+      },
+      {
+        "image_url":"https://m.media-amazon.com/images/I/71HiOte7sqL._UX466_.jpg",
+        "name": " MEN'S TRAINING WORKOUT READY ELITAGE PANTS ",
+        "price": 1999,
+        "strikedoffprice": 3199
+      },
+      {
+        "image_url":
+          "https://m.media-amazon.com/images/I/91yu4y--XkL._UX466_.jpg",
+        "name": "MEN'S REEBOK TRAINING  POLO T-SHIRTS TEE  ",
+        "price": 769,
+        "strikedoffprice": 1099
+      },
+      {
+        "image_url":
+          "https://m.media-amazon.com/images/I/91yu4y--XkL._UX466_.jpg",
+        "name": "MEN'S REEBOK TRAINING WORKOUT  TEE  ",
+        "price": 1299,
+        "strikedoffprice": 1440
+      },
+      {
+        "image_url":
+          "https://m.media-amazon.com/images/I/71gz1mietRS._UY500_.jpg",
+        "name": "MEN'S REEBOK SUPER SOFT FLIP SLIPPERS",
+        "price": 699,
+        "strikedoffprice": 999   
+      },
+      {
+        "image_url":
+          "https://m.media-amazon.com/images/I/81HicePd0RL._UX395_.jpg",
+        "name": "MEN'S REEBOK RUNNING RUN SHOES  ",
+        "price": 1620,
+        "strikedoffprice": 3599
+      },
+      {
+        "image_url":
+          "https://m.media-amazon.com/images/I/81HicePd0RL._UX395_.jpg ",
+        "name": "MEN'S REEBOK RUNNING GENESIS RUNNER SHOES  ",
+        "price": 1620,
+        "strikedoffprice": 3599
+      },
+      {
+        "image_url":
+          "https://m.media-amazon.com/images/I/71gz1mietRS._UY500_.jpg ",
+        "name": "MEN'S REEBOK SWIM RUSSLE FLIP SLIPPERS  ",
+        "price": 599,
+        "strikedoffprice": 999    
+      },
+      {
+        "image_url":
+          "https://m.media-amazon.com/images/I/81HicePd0RL._UX395_.jpg",
+        "name": " MEN'S REEBOK RUNNING TREND RUNNER SHOES",
+        "price": 1575,
+        "strikedoffprice": 3499
+      },
+      {
+        "image_url":
+          "https://m.media-amazon.com/images/I/81HicePd0RL._UX395_.jpg",
+        "name": "UNISEX REEBOK RUNNING ZIG KINETICA II SHOES  ",
+        "price": 9999,
+        "strikedoffprice": 1200
+      }
+    ],
+
+    "womensData":[
+      {
+        "image_url": "https://rukminim1.flixcart.com/image/832/832/xif0q/shoe/j/u/w/7-1522-multi-shozie-multicolor-original-imagegdaad9g8mvs-bb.jpeg?q=70",
+        "name": "WOMEN'S REEBOK RUNNING CLASSIC ROADMAP SHOES",
+        "price": 1170,
+        "strikedoffprice": 2599
+      },
+      {
+        "image_url": "https://m.media-amazon.com/images/I/71gz1mietRS._UY500_.jpg",
+        "name": "WOMEN'S REEBOK SWIM AVENGER FLIP LP SLIPPERS",
+        "price": 399,
+        "strikedoffprice": 799 
+      },
+      {
+        "image_url":"https://rukminim1.flixcart.com/image/612/612/l2hwwi80/slipper-flip-flop/l/m/m/8-1437-dashny-navy-original-imagdtuss99kfnwt.jpeg?q=70",
+        "name": " WOMEN'SREEBOK SWIM FLEX CONNECT SANDALS ",
+        "price": 1149,
+        "strikedoffprice": 2299
+      },
+      {
+        "image_url":"https://cdn.shopify.com/s/files/1/1760/4649/products/patola-saree-magenta-pink-patola-saree-silk-saree-online-32259700916417_540x.jpg?v=1651150380 ",
+        "name": "WOMEN'S CUSTMIZE SAREE  ",
+        "price": 1620,
+        "strikedoffprice": 3599
+      },
+      {
+        "image_url":
+          " https://i.pinimg.com/474x/88/e4/10/88e4101d3e4d2e1ddd2a5487a8df3e27--long-shirts-casual-shirts.jpg ",
+        "name": " WOMEN'S CASUAL WEAR SHIRT  ",
+        "price": 779,
+        "strikedoffprice": 1299
+      },
+      {
+        "image_url":
+          "https://m.media-amazon.com/images/I/71VjCZcQftL._UY679_.jpg",
+        "name": "WOMEN'S REEBOK FITNESS TRAINING  SWEATSHIRT",
+        "price": 1079,
+        "strikedoffprice": 1799
+      },
+      {
+        "image_url":
+          "https://m.media-amazon.com/images/I/71hHSfXAVlL._UY500_.jpg",
+        "name": "WOMEN'S ATTRACTIVE JWELLARY  EARRINGS",
+        "price": 1079,
+        "strikedoffprice": 1799
+      },
+      {
+        "image_url":
+          "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjc3R2eIdvx2dcsLJzwxhh_f-S8pGMo_3L9KEZgvts3VHjununC1CPABg_am1pC39RSbw&usqp=CAU",
+        "name": "WOMEN'S ATTRACTIVE JWELLARY  NECKLACE",
+        "price": 1079,
+        "strikedoffprice": 1799
+      },
+      {
+        "image_url":
+          "https://assets.myntassets.com/h_1440,q_100,w_1080/v1/assets/images/8457929/2019/1/18/d52cb6c4-8427-4770-8cf9-fa1d4779c89b1547811607379-Ishin-Women-Green--Gold-Toned-Printed-Kurta-with-Palazzos-44-1.jpg",
+        "name": "WOMEN'S WEAR ALINE KURTIS",
+        "price": 1079,
+        "strikedoffprice": 1799
+      }
     ]
+      
+    
+
+
 
 }
