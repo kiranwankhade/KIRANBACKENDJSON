@@ -244,6 +244,7 @@
         "strikedoffprice": 1799
       }
     ],
+    
     "todos": [
       {
         "id": 1,
@@ -529,6 +530,8 @@
         "country": "Nicaragua",
         "id": "51"
       }
-    ]
+    ],
+    "user":[],
+    "hotels":[]
 
 }
