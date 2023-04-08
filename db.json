@@ -531,7 +531,12 @@
         "id": "51"
       }
     ],
-    "user":[],
+    "user":[{
+      "id":1,
+      "username":"Kiran",
+      "email":"kiranwankhade7738@gmail.com",
+      "pass":"Kiran@12"
+    }],
     "movies":[
       {
         "id" : 1,
